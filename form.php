@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>FORM REQUIRED</title>
 </head>
 <body>
 	<?php 
